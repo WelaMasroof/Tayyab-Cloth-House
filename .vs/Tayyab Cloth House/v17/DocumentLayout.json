@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\profitdistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\profitdistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\profitdistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\profitdistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|c:\\users\\faaez\\downloads\\tayyab cloth house\\tayyab cloth house\\tayyab cloth house\\tayyab cloth house\\tayyab cloth house\\viewsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\viewsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\viewsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\viewsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\showprofitdist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\showprofitdist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\showprofitdist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\showprofitdist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\view stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\view stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\view stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\view stocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\add item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\add item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\viewreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\viewreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\viewreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\viewreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\terms and conditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\terms and conditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\investor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\investor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\terms and conditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\terms and conditions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\investor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\investor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\add stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\add stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\add stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\add stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\welcomrcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\welcomrcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\welcomrcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\welcomrcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\add item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\add item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\defected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\defected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\defected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\defected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\tayyab cloth house\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB94D6F-141C-48FF-B10A-37AB852DEADA}|Tayyab Cloth House\\Tayyab Cloth House.csproj|solutionrelative:tayyab cloth house\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\LoginForm.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\LoginForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:01:19.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Return.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Return.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Return.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Return.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Return.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:42:53.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Showprofitdist.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Showprofitdist.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Showprofitdist.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Showprofitdist.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Showprofitdist.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvyIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:07:25.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Showprofitdist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Showprofitdist.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Showprofitdist.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Showprofitdist.cs [Design]",
+              "RelativeToolTip": "..\\Showprofitdist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:06:04.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Terms and Conditions.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Terms and Conditions.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Terms and Conditions.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Terms and Conditions.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Terms and Conditions.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAewBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:26:35.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Investor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Investor.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Investor.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Investor.cs [Design]",
+              "RelativeToolTip": "..\\Investor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:42:49.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Terms and Conditions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Terms and Conditions.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Terms and Conditions.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Terms and Conditions.cs [Design]",
+              "RelativeToolTip": "..\\Terms and Conditions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:13:47.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "viewreturn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\viewreturn.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\viewreturn.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\viewreturn.cs [Design]",
+              "RelativeToolTip": "..\\viewreturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:23:23.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "viewreturn.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\viewreturn.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\viewreturn.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\viewreturn.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\viewreturn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:23:17.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Return.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Return.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Return.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Return.cs [Design]",
+              "RelativeToolTip": "..\\Return.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:14:02.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Add Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Add Stock.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Add Stock.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Add Stock.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Add Stock.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAwIMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:36:19.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Add Stock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Add Stock.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Add Stock.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Add Stock.cs [Design]",
+              "RelativeToolTip": "..\\Add Stock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:36:25.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Sales.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Sales.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Sales.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Sales.cs",
+              "ViewState": "AQIAACUCAAAAAAAAAAAAwD8CAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:04:57.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Sales.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Sales.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Sales.cs [Design]",
+              "RelativeToolTip": "Tayyab Cloth House\\Sales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:04:35.153Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add Item.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Add Item.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Add Item.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Add Item.cs [Design]",
+              "RelativeToolTip": "..\\Add Item.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:32:32.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "viewsales.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\viewsales.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\viewsales.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\viewsales.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\viewsales.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:05:17.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfitDistribution.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\ProfitDistribution.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\ProfitDistribution.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\ProfitDistribution.cs [Design]",
+              "RelativeToolTip": "Tayyab Cloth House\\ProfitDistribution.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:26:39.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "viewsales.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\viewsales.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\viewsales.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\viewsales.cs [Design]",
+              "RelativeToolTip": "Tayyab Cloth House\\viewsales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:05:15.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfitDistribution.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\ProfitDistribution.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\ProfitDistribution.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\ProfitDistribution.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\ProfitDistribution.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAnwLcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:26:55.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Dashboard.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:32:58.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Dashboard.cs",
+              "ToolTip": "F:\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:31:07.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Program.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Program.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Program.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:45:20.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Welcomrcs.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Welcomrcs.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Welcomrcs.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Welcomrcs.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Welcomrcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:42:04.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Welcomrcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Welcomrcs.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Welcomrcs.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Welcomrcs.cs [Design]",
+              "RelativeToolTip": "..\\Welcomrcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:34:13.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "view stocks.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\view stocks.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\view stocks.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\view stocks.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\view stocks.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:49:21.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "view stocks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\view stocks.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\view stocks.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\view stocks.cs [Design]",
+              "RelativeToolTip": "..\\view stocks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:49:17.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Defected.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Defected.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Defected.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Defected.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Defected.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAYwLAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:28:06.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Defected.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Defected.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Defected.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Defected.cs [Design]",
+              "RelativeToolTip": "..\\Defected.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:19:32.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Investor.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Investor.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Investor.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Investor.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Investor.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAwG4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T04:20:57.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Add Item.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Add Item.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Add Item.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Add Item.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Add Item.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T05:33:02.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Tayyab Cloth House\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:30:44.737Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Main.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Main.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Main.cs [Design]",
+              "RelativeToolTip": "..\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:08:32.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Main.cs",
+              "RelativeDocumentMoniker": "Tayyab Cloth House\\Main.cs",
+              "ToolTip": "C:\\Users\\Faaez\\Downloads\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Tayyab Cloth House\\Main.cs",
+              "RelativeToolTip": "Tayyab Cloth House\\Main.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAD4v3UAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:15:20.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

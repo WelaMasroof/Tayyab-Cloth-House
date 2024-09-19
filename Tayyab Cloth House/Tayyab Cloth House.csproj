@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DBB94D6F-141C-48FF-B10A-37AB852DEADA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Tayyab_Cloth_House</RootNamespace>
+    <AssemblyName>Tayyab Cloth House</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.Charts.WinForms, Version=1.0.9.0, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.Charts.WinForms.1.0.9\lib\net472\Guna.Charts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add Item.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Item.Designer.cs">
+      <DependentUpon>Add Item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add Stock.Designer.cs">
+      <DependentUpon>Add Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Defected.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Defected.Designer.cs">
+      <DependentUpon>Defected.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Investor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Investor.Designer.cs">
+      <DependentUpon>Investor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProfitDistribution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProfitDistribution.Designer.cs">
+      <DependentUpon>ProfitDistribution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Return.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Return.Designer.cs">
+      <DependentUpon>Return.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales.Designer.cs">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Showprofitdist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Showprofitdist.Designer.cs">
+      <DependentUpon>Showprofitdist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Terms and Conditions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Terms and Conditions.Designer.cs">
+      <DependentUpon>Terms and Conditions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view stocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view stocks.Designer.cs">
+      <DependentUpon>view stocks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewreturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewreturn.Designer.cs">
+      <DependentUpon>viewreturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewsales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewsales.Designer.cs">
+      <DependentUpon>viewsales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcomrcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcomrcs.Designer.cs">
+      <DependentUpon>Welcomrcs.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add Item.resx">
+      <DependentUpon>Add Item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add Stock.resx">
+      <DependentUpon>Add Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Defected.resx">
+      <DependentUpon>Defected.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Investor.resx">
+      <DependentUpon>Investor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProfitDistribution.resx">
+      <DependentUpon>ProfitDistribution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Return.resx">
+      <DependentUpon>Return.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales.resx">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Showprofitdist.resx">
+      <DependentUpon>Showprofitdist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Terms and Conditions.resx">
+      <DependentUpon>Terms and Conditions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view stocks.resx">
+      <DependentUpon>view stocks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewreturn.resx">
+      <DependentUpon>viewreturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewsales.resx">
+      <DependentUpon>viewsales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcomrcs.resx">
+      <DependentUpon>Welcomrcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

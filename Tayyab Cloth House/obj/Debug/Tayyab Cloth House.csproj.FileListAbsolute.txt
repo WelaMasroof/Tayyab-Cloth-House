@@ -1,0 +1,255 @@
+E:\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe.config
+E:\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe
+E:\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.pdb
+E:\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.AssemblyReference.cache
+E:\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Form1.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Properties.Resources.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.GenerateResource.cache
+E:\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.CoreCompileInputs.cache
+E:\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.exe
+E:\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.pdb
+E:\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.view_stocks.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Add_Item.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe.config
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.pdb
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.dll
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.UI2.dll
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.xml
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.AssemblyReference.cache
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Add_Item.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Form1.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Dashboard.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Defected.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Investor.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.LoginForm.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Main.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.ProfitDistribution.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Properties.Resources.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Sales.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.view_stocks.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewsales.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Welcomrcs.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.GenerateResource.cache
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.CoreCompileInputs.cache
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab C.55A2BDBD.Up2Date
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.exe
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.pdb
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Return.resources
+E:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewreturn.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.AssemblyReference.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.exe
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.pdb
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe.config
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.pdb
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.UI2.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Add_Item.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Form1.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Dashboard.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Defected.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Investor.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.LoginForm.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Main.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.ProfitDistribution.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Properties.Resources.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Return.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Sales.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.view_stocks.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewreturn.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewsales.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Welcomrcs.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.GenerateResource.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.CoreCompileInputs.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab C.55A2BDBD.Up2Date
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Terms_and_Conditions.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.exe
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.pdb
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe.config
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.pdb
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Add_Item.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Form1.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Dashboard.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Defected.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Investor.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.LoginForm.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Main.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.ProfitDistribution.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Properties.Resources.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Return.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Sales.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Terms_and_Conditions.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.view_stocks.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewreturn.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewsales.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Welcomrcs.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab C.55A2BDBD.Up2Date
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe.config
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.pdb
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.UI2.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.AssemblyReference.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Add_Item.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Form1.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Dashboard.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Defected.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Investor.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.LoginForm.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Main.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.ProfitDistribution.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Properties.Resources.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Return.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Sales.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Terms_and_Conditions.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.view_stocks.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewreturn.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewsales.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Welcomrcs.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.GenerateResource.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.CoreCompileInputs.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab C.55A2BDBD.Up2Date
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.exe
+C:\Users\Faaez\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.pdb
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe.config
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.pdb
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Add_Item.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Form1.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Dashboard.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Defected.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Investor.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.LoginForm.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Main.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.ProfitDistribution.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Properties.Resources.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Return.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Sales.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Terms_and_Conditions.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.view_stocks.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewreturn.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewsales.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Welcomrcs.resources
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab C.55A2BDBD.Up2Date
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.exe
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.pdb
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\itextsharp.dll
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\itextsharp.xml
+C:\Users\Dell\Downloads\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House(1)\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Showprofitdist.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe.config
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.pdb
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.UI2.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\itextsharp.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\itextsharp.xml
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.AssemblyReference.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Add_Item.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Form1.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Dashboard.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Defected.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Investor.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.LoginForm.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Main.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.ProfitDistribution.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Properties.Resources.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Return.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Sales.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Showprofitdist.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Terms_and_Conditions.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.view_stocks.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewreturn.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewsales.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Welcomrcs.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.GenerateResource.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.CoreCompileInputs.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab C.55A2BDBD.Up2Date
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.exe
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.pdb
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.AssemblyReference.cache
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe.config
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.pdb
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\BouncyCastle.Cryptography.dll
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.dll
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.UI2.dll
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\itextsharp.dll
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\BouncyCastle.Cryptography.xml
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.xml
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\itextsharp.xml
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Add_Item.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Form1.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Dashboard.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Defected.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Investor.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.LoginForm.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Main.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.ProfitDistribution.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Properties.Resources.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Return.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Sales.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Showprofitdist.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Terms_and_Conditions.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.view_stocks.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewreturn.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewsales.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Welcomrcs.resources
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.GenerateResource.cache
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.CoreCompileInputs.cache
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab C.55A2BDBD.Up2Date
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.exe
+F:\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.pdb
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.AssemblyReference.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.exe
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.pdb
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe.config
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.exe
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Tayyab Cloth House.pdb
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.UI2.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\itextsharp.dll
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\bin\Debug\itextsharp.xml
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Add_Item.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Form1.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Dashboard.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Defected.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Investor.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.LoginForm.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Main.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.ProfitDistribution.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Properties.Resources.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Return.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Sales.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Showprofitdist.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Terms_and_Conditions.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.view_stocks.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewreturn.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.viewsales.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab_Cloth_House.Welcomrcs.resources
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.GenerateResource.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab Cloth House.csproj.CoreCompileInputs.cache
+C:\Users\Faaez\Downloads\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\Tayyab Cloth House\obj\Debug\Tayyab C.55A2BDBD.Up2Date
